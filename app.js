@@ -1,3 +1,5 @@
+// got help from katie and ja'rod
+
 const prompt = require('prompt-sync')();
 
 // const username = prompt('What is your name?');
